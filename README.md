@@ -1,6 +1,6 @@
 # YourWelcome Code Test
 
-This code test is two parts, and each should take roughly an hour/hour and a half. We are looking for clean code, in a readable format. Stlying is not expected but a bonus (and a little may be required for task 2).
+This code test is two parts, and each should take roughly an hour/hour and a half. We are looking for clean code, in a readable format. Stlying is not expected but a bonus (and a little may be required for task 2), and should not be inline.
 
 The code should be tested (task 1), and those tests should pass.
 
@@ -10,7 +10,7 @@ The `MapComponent` should be connected by relay, and should accept a `location` 
 
 ## Getting Started
 
-```npm install``` to install the packages (you may need to run `npm install --update-binary` if you're running a later version of node)
+```npm install``` to install the packages
 
 ```npm run update-schema && npm run start```
 
