@@ -1,6 +1,6 @@
 # YourWelcome Code Test
 
-This code test is two parts, and each should take roughly an hour/hour and a half. We are looking for clean code, in a readable format. Stlying is not expected but a bonus (and a little may be required for task 2), and should not be inline.
+This code test is two parts, and each should take roughly 45 minutes to an hour. We are looking for clean code, in a readable format. Stlying is not expected but a bonus (and a little may be required for task 2), and should not be inline.
 
 The code should be tested (task 1), and those tests should pass.
 
