@@ -5,9 +5,7 @@ options:
 
 # File Options
 files:
-  include: 'lib/theme/sass/**/*.s+(a|c)ss'
-  ignore:
-    - 'lib/theme/sass/vendor/**/*.*'
+  include: 'lib/app/theme.sass'
 
 # Rule Configuration
 rules:
